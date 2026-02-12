@@ -11,7 +11,7 @@ The lab was built using Windows Server and domain-joined client machines in a vi
 * VirtualBox / VMware
 * Windows Server 2022 (Domain Controller)
 * Windows 10/11 Client
-* Domain: corp.local
+* Domain: Jojacorp.local
 
 ## Key Skills Demonstrated
 
@@ -38,10 +38,10 @@ Each section includes step-by-step documentation and screenshots.
 
 ## Business Scenario
 
-A fictional company ("Corp") with multiple departments (HR, Sales, IT) required centralized identity management, secure file access, and standardized security policies.
+A fictional company ("Joja Corp") with multiple departments (HR, Sales, IT) required centralized identity management, secure file access, and standardized security policies.
 
 This lab demonstrates how an IT Analyst would deploy and manage this environment.
 
 ## Author
 
-[Jordon Faoro]
+Jordon Faoro
