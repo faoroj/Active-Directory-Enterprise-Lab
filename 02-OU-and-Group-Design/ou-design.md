@@ -90,12 +90,15 @@ The following **Global Security Groups** were created inside `_Groups`:
 ## Screenshots
 
 ### OU Structure
+#### Organizational Units were created to separate users by department and to support targeted administration and future Group Policy deployment. Administrative OUs were structured to separate users, computers, groups, and disabled accounts.
 ![OU structure](../screenshots/ou/ou-structure.png)
 
 ### Default Container Redirection
+#### Default user and computer containers were redirected to managed OUs using redirusr and redircmp to ensure new objects are automatically placed in the correct administrative structure.
 ![Default container redirection](../screenshots/ou/default-container-redirect.png)
 
 ### Security Groups
+#### Global security groups were created to support role-based access control (RBAC), allowing permissions to be assigned to groups rather than individual users.
 ![Security groups created](../screenshots/groups/security-groups.png)
 
 ---
