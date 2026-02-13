@@ -89,16 +89,14 @@ The following **Global Security Groups** were created inside `_Groups`:
 
 ## Screenshots
 
-* OU structure
-* Default container redirection
-* Security group creation
+### OU Structure
+![OU structure](../screenshots/ou/ou-structure.png)
 
-Location:
+### Default Container Redirection
+![Default container redirection](../screenshots/ou/default-container-redirect.png)
 
-```
-/screenshots/ou/
-/screenshots/groups/
-```
+### Security Groups
+![Security groups created](../screenshots/groups/security-groups.png)
 
 ---
 
