@@ -35,7 +35,7 @@ Build a virtual Active Directory environment with a Domain Controller and a doma
 
 ## Screenshots
 
-![Server renamed](../screenshots/environment/server-renamed-dc01.png)
+![Server renamed](../screenshots/environment/server-renamed-DC01.png)
 
 ![Static IP configuration](../screenshots/environment/static-ip-config.png)
 
