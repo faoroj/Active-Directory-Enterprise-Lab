@@ -36,6 +36,7 @@ Build a virtual Active Directory environment with a Domain Controller and a doma
 ## Screenshots
 
 ### Server Renamed
+# The server was renamed according to enterprise naming standards.
 ![Server renamed](../screenshots/environment/server-renamed-DC01.png)
 
 ![Static IP configuration](../screenshots/environment/static-ip-config.png)
