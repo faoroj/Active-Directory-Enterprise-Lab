@@ -124,7 +124,7 @@ This preserves audit history while preventing access.
 ![Password reset](../screenshots/users/password-reset.png)
 
 ### Account Locked
-![Account locked message](../screenshots/users/account-locked.png)
+![Account locked message](../screenshots/users/account-locked-message.png)
 
 ### Account Unlock
 ![Account unlocked](../screenshots/users/account-unlocked.png)
