@@ -132,9 +132,6 @@ This preserves audit history while preventing access.
 ### Account Disabled
 ![User disabled](../screenshots/users/user-disabled.png)
 
-### User moved to Disabled OU
-![User moved to Disabled OU](../screenshots/users/user-moved-disabled-ou.png)
-
 ### Domain Login Verification
 ![Domain login](../screenshots/users/domain-login-jsmith.png)
 
