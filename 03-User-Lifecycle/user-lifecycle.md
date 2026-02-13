@@ -114,18 +114,29 @@ This preserves audit history while preventing access.
 ---
 
 ## Screenshots
+### User Creation
+![User created](../screenshots/users/user-created-jsmith.png)
 
-* User creation
-* Group membership
-* Password reset
-* Account lockout/unlock
-* Disabled account and OU move
+### Group Membership Assignment
+![Group membership](../screenshots/users/user-group-membership.png)
 
-Location:
+### Password Reset
+![Password reset](../screenshots/users/password-reset.png)
 
-```
-/screenshots/users/
-```
+### Account Locked
+![Account locked message](../screenshots/users/account-locked.png)
+
+### Account Unlock
+![Account unlocked](../screenshots/users/account-unlocked.png)
+
+### Account Disabled
+![User disabled](../screenshots/users/user-disabled.png)
+
+### User moved to Disabled OU
+![User moved to Disabled OU](../screenshots/users/user-moved-disabled-ou.png)
+
+### Domain Login Verification
+![Domain login](../screenshots/users/domain-login-jsmith.png)
 
 ---
 
