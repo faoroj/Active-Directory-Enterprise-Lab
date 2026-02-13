@@ -35,6 +35,16 @@ Build a virtual Active Directory environment with a Domain Controller and a doma
 
 ## Screenshots
 
-* Domain creation
-* Server Manager AD DS installation
-* Client domain join
+![Server renamed](../screenshots/environment/server-renamed-dc01.png)
+
+![Static IP configuration](../screenshots/environment/static-ip-config.png)
+
+![Active Directory installation](../screenshots/environment/ad-ds-installed.png)
+
+![Domain created](../screenshots/environment/domain-created.png)
+
+![DNS forward lookup zone](../screenshots/environment/dns-forward-lookup.png)
+
+![PC01 joined to domain](../screenshots/environment/pc01-domain-join.png)
+
+![Successful domain login](../screenshots/environment/domain-login-success.png)
