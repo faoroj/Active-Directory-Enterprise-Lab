@@ -75,15 +75,23 @@ Prevent unauthorized data exfiltration and reduce malware risk from external dev
 ## Screenshots
 
 ### GPO Linked to Computers OU
+#### The JojaCorp Security Policy is linked to the _Computers OU to ensure domain workstations automatically receive computer-level security settings.
 ![GPO linked](../screenshots/gpo/gpo-linked-computers.png)
 
 ### Account Lockout Configuration
+#### Account lockout settings configured to protect against brute-force authentication attempts.
 ![Lockout settings](../screenshots/gpo/gpo-lockout-settings.png)
 
+### Password Complexity Enforcement
+#### Password policy configured to enforce minimum length and complexity requirements for domain accounts.
+![Complexity settings](../screenshots/gpo/gpo-password-complexity.png)
+
 ### USB Storage Restriction
+#### Removable storage access is disabled to prevent unauthorized data transfer and reduce malware risk from external devices.
 ![USB restriction](../screenshots/gpo/gpo-usb-restriction.png)
 
 ### Policy Applied to Client
+#### Group Policy results from PC01 confirming that the JojaCorp Security Policy was successfully applied from the domain controller.
 ![Policy applied](../screenshots/gpo/gpo-applied-client.png)
 
 ---
@@ -96,6 +104,3 @@ Prevent unauthorized data exfiltration and reduce malware risk from external dev
 - Endpoint policy enforcement  
 - Group Policy troubleshooting and validation  
 - Centralized Windows administration
-
-
-
