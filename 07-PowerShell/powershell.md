@@ -53,16 +53,19 @@ New users were confirmed in Active Directory within their respective departmenta
 ## Screenshots
 
 ### CSV Input File
+#### User account information stored in a structured CSV file used as the data source for automated account creation.
 ![CSV file](../screenshots/powershell/csv-file.png)
 
 ---
 
 ### PowerShell Execution
+#### PowerShell script executed on the domain controller to import CSV data and create multiple user accounts automatically.
 ![PowerShell execution](../screenshots/powershell/powershell-user-creation.png)
 
 ---
 
 ### Users Created in Active Directory
+#### New user accounts successfully created and placed in their respective departmental Organizational Units.
 ![Users in AD](../screenshots/powershell/powershell-users-in-ad.png)
 
 ---
