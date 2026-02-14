@@ -103,7 +103,7 @@ Results confirmed proper department-level access control.
 
 ### Sales Access Successful
 #### Sales user (jsmith) granted access to the Sales share
-![Sales access successful](../screenshots/file-server/sales-access-sucessful.png)
+![Sales access successful](../screenshots/file-server/sales-access-sucess.png)
 
 ---
 
