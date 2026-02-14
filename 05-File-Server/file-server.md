@@ -64,7 +64,7 @@ Access is controlled through security groups rather than individual users.
 
 ## Access Testing
 
-Testing was performed from domain workstation **PC01**.
+Testing was performed from the domain workstation **PC01**.
 
 ### Sales User Test (jsmith)
 
@@ -82,19 +82,28 @@ Results confirmed proper department-level access control.
 ## Screenshots
 
 ### Folder Structure
+#### Department share directories created to separate HR and Sales data within the centralized file storage location.
 ![Folder structure](../screenshots/file-server/folder-structure.png)
 
 ### NTFS Permissions – HR
+#### Inheritance disabled and explicit NTFS permissions configured to allow access only to the HR_File_Access security group.
 ![NTFS permissions HR](../screenshots/file-server/ntfs-permissions-hr.png)
 
 ### Share Permissions
+#### Network share configured using Advanced Sharing with access restricted to department security groups.
 ![Share permissions](../screenshots/file-server/share-permissions.png)
 
 ### Sales Access Successful
+#### Sales user (jsmith) successfully accessed the Sales share from the domain workstation PC01, confirming correct group-based permissions.
 ![Sales access success](../screenshots/file-server/sales-access-success.png)
 
 ### HR Access Denied
+#### Sales user (jsmith) denied access to the HR share, verifying enforcement of least-privilege and department-level isolation.
 ![HR access denied](../screenshots/file-server/hr-access-denied.png)
+
+### Sales Access Successful
+#### Sales user (jsmith) granted access to the Sales share
+![Sales access successful](../screenshots/file-server/sales-access-sucessful.png)
 
 ---
 
