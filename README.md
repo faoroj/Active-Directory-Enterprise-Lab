@@ -26,13 +26,14 @@ The lab was built using Windows Server and domain-joined client machines in a vi
 
 ## Lab Structure
 
-1. Environment Setup
-2. OU and Security Group Design
-3. User Lifecycle Management
-4. Group Policy Implementation
-5. File Server and Access Control
-6. Domain Join and Client Configuration
-7. PowerShell Automation
+1. [Environment Setup](./01-Environment-Setup/environment-setup.md)
+2. [OU and Security Group Design](./02-OU-and-Group-Design/ou-design.md)
+3. [User Lifecycle Management](./03-User-Lifecycle/user-lifecycle.md)
+4. [Group Policy Implementation](./04-Group-Policy/group-policy.md)
+5. [File Server and Access Control](./05-File-Server/file-server.md)
+6. [Domain Join and Client Configuration](./06-Domain-Join/domain-join.md)
+7. [PowerShell Automation](./07-Powershell/powershell.md)
+
 
 Each section includes step-by-step documentation and screenshots.
 
