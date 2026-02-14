@@ -72,13 +72,6 @@ Prevent unauthorized data exfiltration and reduce malware risk from external dev
 
 ---
 
-## Policy Deployment and Verification
-
-Policies were applied to **PC01** using:
-
-
----
-
 ## Screenshots
 
 ### GPO Linked to Computers OU
