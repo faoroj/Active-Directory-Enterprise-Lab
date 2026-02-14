@@ -46,7 +46,7 @@ Domain functionality confirmed through:
 
 PC01 successfully joined the Active Directory domain.
 
-![PC01 domain join](../screenshots/domain/pc01-domain-join.png)
+![PC01 domain join](../screenshots/domain/pc01-domain-join-02.png)
 
 ---
 
@@ -54,7 +54,7 @@ PC01 successfully joined the Active Directory domain.
 
 Successful authentication using the domain account on PC01.
 
-![Domain login](../screenshots/domain/domain-user-login.png)
+![Domain login](../screenshots/domain/domain-login-success.png)
 
 ---
 
@@ -62,7 +62,7 @@ Successful authentication using the domain account on PC01.
 
 PC01 computer account located in the `_Computers` organizational unit.
 
-![Computer in OU](../screenshots/domain/computer-in-ou.png)
+![Computer in OU](../screenshots/domain/pc01-domain-join.png)
 
 ---
 
@@ -70,7 +70,7 @@ PC01 computer account located in the `_Computers` organizational unit.
 
 Command output confirming domain user context.
 
-![Whoami domain](../screenshots/domain/whoami-domain.png)
+![Whoami domain](../screenshots/domain/domain-login-jsmith.png)
 
 ---
 
